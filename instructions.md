@@ -21,9 +21,9 @@ create a file named instuctions by typing "touch instructions.md"
 
 ## Now we are going to create another file in the alchemy directory named greeting.md but we are going to assign a string value.  The following table will show the directory, file name, and the string assigned to it:
 
-|Directory          |File Name       |String        |
-|:---------------:|:--------------:|:-----------:|
-|lab-02-terminalA      |greeting.md     |Hello there!
+|  Directory |  File Name | String  |
+|:-:|:-:|:-:|
+|  lab-02-terminalA |  greeting.md |  Hello there! |
 
 since we are already in the lab-02-terminalA directory we can do this by simply typing **echo "Hello there!" > greeting.md**
 
