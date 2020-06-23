@@ -3,7 +3,7 @@
 
 ### Inside _src_ create a nested directory named **assets**
 - do this by typing __mkdir 
-~/src/assets
+ ~/src/assets
 also create a file in directory src by typing touch index.html
 ###  create 2 files in the directory assets with the following names: 
 - style.css
