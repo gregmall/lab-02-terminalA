@@ -10,7 +10,7 @@ also create a file in directory src by typing touch index.html
 + app.js
 ##### this is done by going to the assets directory (type cd ~/src/assets) and the using the **touch** command to create the files.
 1.  touch style.css
-2.  touch app.js
+1.  touch app.js
 
 
 
